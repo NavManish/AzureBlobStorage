@@ -1,0 +1,139 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="en-US" original="BlobStorageInterface">
+    <body>
+      <group id="body">
+        <trans-unit id="Table 1585167089 - Field 1663593181 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Primary Key</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Entity Blob Setup - Field Primary Key - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1585167089 - Field 1453674157 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Customer Setup</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Entity Blob Setup - Field Customer Setup - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1585167089 - Field 657967925 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Vendor Setup</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Entity Blob Setup - Field Vendor Setup - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1585167089 - Field 2639346102 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Item Setup</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Entity Blob Setup - Field Item Setup - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1585167089 - Field 1913595311 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Employee Setup</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Entity Blob Setup - Field Employee Setup - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1585167089 - Field 2646990905 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Sales Setup</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Entity Blob Setup - Field Sales Setup - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1585167089 - Field 985886656 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Purchase Setup</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Entity Blob Setup - Field Purchase Setup - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1585167089 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Entity Blob Setup</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Entity Blob Setup - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1585167089 - Control 1453674157 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Customer Setup</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Entity Blob Setup - Control Customer Setup - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1585167089 - Control 657967925 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Vendor Setup</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Entity Blob Setup - Control Vendor Setup - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1585167089 - Control 2639346102 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Item Setup</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Entity Blob Setup - Control Item Setup - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1585167089 - Control 1913595311 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Employee Setup</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Entity Blob Setup - Control Employee Setup - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1585167089 - Control 2646990905 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Sales Setup</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Entity Blob Setup - Control Sales Setup - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1585167089 - Control 985886656 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Purchase Setup</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Entity Blob Setup - Control Purchase Setup - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3500612037 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Azure Blob Storage</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Azure Blob Storage - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3500612037 - Control 1541638098 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Entity Type</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Azure Blob Storage - Control EntityTypeVar - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3500612037 - Control 3819526884 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Document Type</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Azure Blob Storage - Control DocType - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3500612037 - Control 2738103555 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Azure Blob Storage - Control DocNo - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3500612037 - Action 593408208 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Download Blob</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Azure Blob Storage - Action Download - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3500612037 - Action 701918397 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Upload Blob</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Azure Blob Storage - Action Upload - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 937977005 - Field 3927060022 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Blob File Name</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension CustBlobFileName - Field BlobFileName - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 2500294437 - Field 3927060022 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Blob File Name</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension VendBlobFileName - Field BlobFileName - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 1902128633 - Field 3927060022 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Blob File Name</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension ItemBlobFileName - Field BlobFileName - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 2968775910 - Field 3927060022 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Blob File Name</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension SalesBlobFileName - Field BlobFileName - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 505242290 - Field 3927060022 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Blob File Name</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension PurchBlobFileName - Field BlobFileName - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 251555676 - Field 3927060022 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Blob File Name</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension EmployeeBlobFileName - Field BlobFileName - Property Caption</note>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>

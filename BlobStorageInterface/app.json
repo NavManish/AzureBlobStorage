@@ -1,0 +1,27 @@
+{
+  "id": "b0077457-3638-448f-a413-e79c061a3758",
+  "name": "BlobStorageInterface",
+  "publisher": "Default publisher",
+  "version": "1.0.0.0",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "14.0.0.0",
+  "application": "14.0.0.0",
+  "features": ["TranslationFile"],
+  "idRanges": [
+    {
+      "from": 50000,
+      "to": 99999
+    }
+  ],
+  "contextSensitiveHelpUrl": "https://BlobStorageInterface.com/help/",
+  "showMyCode": false,
+  "runtime": "3.2"
+}
